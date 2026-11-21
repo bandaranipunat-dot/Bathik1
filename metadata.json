@@ -1,0 +1,6 @@
+{
+  "name": "Chamathkara Bathik",
+  "description": "Authentic Hand-Drawn Sri Lankan Batik Couture — Heritage Sarees, Frocks, Sarongs & Bespoke Creations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
